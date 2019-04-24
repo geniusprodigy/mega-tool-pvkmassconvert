@@ -29,9 +29,13 @@ For each Hexadecimal Private Key, the script results in the Private Key in WIF, 
 The code will generate 5 output files:
 
 list-Addresses-Uncompressed.txt -> List with each Bitcoin Address Uncompressed, is the default format used.
+
 list-Addresses-Compressed.txt -> List with each Bitcoin Address Compressedd.
+
 list-WIF-Uncompressed.txt -> List with each Private Key on WIF default format used.
-list-WIF-Compressed.txt -> List with each Private Key on WIF Compressed
+
+list-WIF-Compressed.txt -> List with each Private Key on WIF Compressed.
+
 list-AllOrdened.txt -> All information in the above files, organized visually better. Disable "Auto Line Break" from the Text Editor to see better.
 
 Separate text files are for mass use in Wallet software for quick import. In order to locate through them and know which key belongs to which file, use a Text Editor that lists each line, so for example, line number 6 of each of the files will be equivalent to the data of the same hexadecimal private key that was converted, and so on successively.
