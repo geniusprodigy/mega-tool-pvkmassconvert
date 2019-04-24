@@ -9,6 +9,7 @@ Link to the balances verification tool: https://github.com/geniusprodigy/bitcoin
 # INSTALLATION
 
 * Install Python 2.7 if you not have
+
 Open the Command Line/Terminal and download the dependencies one by one typing:
 
 * pip install base58
