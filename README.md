@@ -23,6 +23,7 @@ Open the Command Line/Terminal and download the dependencies one by one typing:
 # RESULTS
 
 Tool working: https://imgur.com/a/h8iv496
+
 Tool results output: https://imgur.com/a/F1yL1hv
 
 For each Hexadecimal Private Key, the script results in the Private Key in WIF, WIF Compressed, and the 2 Default Bitcoin Addresses, ie Address Compressed and Address Uncompressed.
