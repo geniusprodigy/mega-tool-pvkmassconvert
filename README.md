@@ -6,7 +6,7 @@ I developed the tool thinking of helping to save a lot of time if you have many 
 
 Link to the balances verification tool: https://github.com/geniusprodigy/bitcoin-balance-checker
 
-# INSTALLATION
+# INSTALLATION ans USE
 
 * Install Python 2.7 if you not have
 
