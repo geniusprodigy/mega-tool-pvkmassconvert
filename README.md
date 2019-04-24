@@ -42,7 +42,7 @@ list-AllOrdened.txt -> All information in the above files, organized visually be
 
 Separate text files are for mass use in Wallet software for quick import. In order to locate through them and know which key belongs to which file, use a Text Editor that lists each line, so for example, line number 6 of each of the files will be equivalent to the data of the same hexadecimal private key that was converted, and so on successively.
 
-Very important! Do not forget to use the balances verification tool in the "TWO GENERATED TEXT FILES", that is: * list-Addresses-Uncompressed.txt * and * list-Addresses-Compressed.txt *. This will ensure that you have not forgotten any money.
+VERY IMPORTANT! Do not forget to use the balances verification tool in the "TWO GENERATED TEXT FILES", that is: * list-Addresses-Uncompressed.txt * and * list-Addresses-Compressed.txt *. This will ensure that you have not forgotten any money.
 
 The balances check feature will be very useful especially if you do not remember which of the addresses has balance.
 
